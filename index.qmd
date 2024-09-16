@@ -23,6 +23,6 @@ about:
 
 # Linette Lim
 
-Welcome! I am a PhD candidate at University College Dublin in the <a href="https://www.ucd.ie/spire/" target="_blank">School of Politics and International Relations</a>. I use mixed methods, including experiments and computational text analysis, to study information manipulation in authoritarian regimes.
+Welcome! I am a PhD candidate at University College Dublin in the <a href="https://www.ucd.ie/spire/" target="_blank">School of Politics and International Relations</a>. I use mixed methods, including experiments, interviews, and computational text analysis, to study information manipulation in authoritarian regimes.
 
 Prior to embarking on academic research, I was a journalist for a decade, including heading up the Shanghai bureau for the Singapore public broadcaster, <a href="https://www.channelnewsasia.com/international" target="_blank">CNA</a>. Please feel free to [contact me](mailto:linette.lim@ucdconnect.ie) if you have any questions or would like to discuss potential projects.
