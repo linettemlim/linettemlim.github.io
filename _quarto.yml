@@ -12,6 +12,8 @@ website:
     left:
       - text: "CV"
         href: cv/index.qmd
+      - text: "Research"
+        href: research/index.qmd
   
 
 # Don't touch unless you know what you are doing :) ------------
