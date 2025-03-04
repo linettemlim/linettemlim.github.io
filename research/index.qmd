@@ -7,13 +7,18 @@ execute:
 engine: knitr 
 resources:
   - "mas.pdf"
-Research:
+research:
   pdf: "mas.pdf"
 ---
 
 ```{=html}
 <p class="text-center">
-  <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$mas$pdf`" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Open Research
-  </a>
+  <ul>
+    <li>
+      Pre-analysis Plan: "Who Believes and Who Shares Fake News: A Multi-Agent System Application for Experimental Misinformation Research with LLMs" <i>(with Yen-Chieh Liao and Slava Jankin)</i>
+      <a class="mas-download" href="`r rmarkdown::metadata$research$pdf`" target="_blank">
+        &ensp;[PDF]
+      </a>
+    </li>
+  </ul>
 </p>
