@@ -20,7 +20,8 @@ research:
   <ul>
     <li>
       <strong>The Use of ‘So-Called’ as a Propaganda Device.</strong>
-      <i>(with Alexander Dukalskis). Forthcoming, The Journal of East Asian Studies.</i>
+      <i>(with Alexander Dukalskis). Forthcoming,<br>
+      The Journal of East Asian Studies.</i>
       <a href="`r rmarkdown::metadata$research$socalled`" target="_blank">
         &ensp;[Manuscript]
       </a>
@@ -30,12 +31,13 @@ research:
   <h3>Under Review</h3>
   <ul>
     <li>
-      <strong>Foreign Bogeymen: The Use of Anti-Foreign Media Propaganda in China.</strong>
+      <strong>Foreign Bogeymen: The Use of Anti-Foreign Media Propaganda in China.</strong><br>
       <i>Revise and Resubmit.</i>
       <ul>
         <li><a href="https://bsky.app/profile/psaautocracy.bsky.social/post/3lv4f5ixbpc2z" target="_blank">
             Best PhD Paper 2025
-          </a>, Political Studies Association Autocracy &amp; Regime Change Specialist Group</li>
+          </a>, Autocracy &amp; Regime Change Specialist Group,<br>
+          Political Studies Association</li>
       </ul>
     </li>
     <li>
@@ -44,7 +46,8 @@ research:
     </li>
     <li>
       <strong>Party and Personalism in China’s Autocratic Legitimation.</strong>
-      <i>(with Alexander Dukalskis). Book Chapter Under Review.</i>
+      <i>(with Alexander Dukalskis).<br>
+      Book Chapter Under Review.</i>
     </li>
   </ul>
   

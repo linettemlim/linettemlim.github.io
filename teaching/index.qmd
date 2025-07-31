@@ -1,0 +1,26 @@
+---
+layout: page
+title: Teaching
+excerpt: Teaching
+execute:
+  freeze: false  # never re-render during project render
+engine: knitr 
+
+---
+
+```{=html}
+<div style="text-align: left;">
+
+  <h3 style="margin-bottom: 1.5em;"><em>University College Dublin</em></h3>
+
+  <p>
+    <strong>Lecturer:</strong><br>
+    POL36250 Media Politics under Authoritarianism, Autumn 2025
+  </p>
+
+  <p>
+    <strong>Guest Lecturer:</strong><br>
+    POL36220 Political Communication and Propaganda, Spring 2025
+  </p>
+
+</div>

@@ -1,0 +1,13 @@
+---
+title: Contact
+---
+
+<address>
+University College Dublin<br>
+School of Politics and International Relations<br>
+Newman Building F302<br>
+Belfield, Dublin 4, Ireland
+</address>
+
+Please feel free to [email me](mailto:linette.lim@ucdconnect.ie) if you have any questions or would like to discuss potential projects.
+
