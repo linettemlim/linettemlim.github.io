@@ -23,9 +23,6 @@ website:
   
 
 # Don't touch unless you know what you are doing :) ------------
-  search: 
-    location: navbar
-    type: textbox
   page-footer: 
     left: |
       <span class="faux-block">&#169; 2023 Marvin Schmitt CC BY-SA 4.0</span>
@@ -36,19 +33,16 @@ project:
   type: website
   output-dir: docs
 
-  preview: 
-    port: 22222
-    browser: true
-    watch-inputs: true
-    navigate: true
-
 execute:
   freeze: true
 
 format:
   html:
+    # turn OFF Quarto’s built-in search widget
+    search: false
+
     fontsize: 1.1em
-    theme: 
+    theme:
       - pulse
       - html/styles.scss
     toc: false
@@ -57,3 +51,11 @@ format:
     fig-cap-location: margin
     reference-location: margin
     footnotes-hover: true
+
+page-footer:
+  left: |
+    <span class="faux-block">© 2023 Marvin Schmitt CC BY-SA 4.0</span>
+  right: |
+    <span class="faux-block">
+      <a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub</a>
+    </span>
