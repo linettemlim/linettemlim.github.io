@@ -10,10 +10,12 @@ website:
     
     # your sub-pages
     left:
-      - text: "CV"
-        href: cv/index.qmd
+      - text: "About"
+        href: about/index.qmd
       - text: "Research"
         href: research/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
   
 
 # Don't touch unless you know what you are doing :) ------------

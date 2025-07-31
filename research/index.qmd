@@ -7,18 +7,59 @@ execute:
 engine: knitr 
 resources:
   - "mas.pdf"
+  - "socalled.pdf"
 research:
-  pdf: "mas.pdf"
+  mas: "mas.pdf"
+  socalled: "socalled.pdf"
 ---
 
 ```{=html}
-<p class="text-center">
+<div class="text-align: left;">
+
+  <h3>Publications</h3>
   <ul>
     <li>
-      Pre-analysis Plan: "Who Believes and Who Shares Fake News: A Multi-Agent System Application for Experimental Misinformation Research with LLMs" <i>(with Yen-Chieh Liao and Slava Jankin)</i>
-      <a class="mas-download" href="`r rmarkdown::metadata$research$pdf`" target="_blank">
-        &ensp;[PDF]
+      <strong>The Use of ‘So-Called’ as a Propaganda Device.</strong>
+      <i>(with Alexander Dukalskis). Forthcoming, The Journal of East Asian Studies.</i>
+      <a href="`r rmarkdown::metadata$research$socalled`" target="_blank">
+        &ensp;[Manuscript]
       </a>
     </li>
   </ul>
-</p>
+
+  <h3>Under Review</h3>
+  <ul>
+    <li>
+      <strong>Foreign Bogeymen: The Use of Anti-Foreign Media Propaganda in China.</strong>
+      <i>Revise and Resubmit.</i>
+      <ul>
+        <li><a href="https://bsky.app/profile/psaautocracy.bsky.social/post/3lv4f5ixbpc2z" target="_blank">
+            Best PhD Paper 2025
+          </a>, Political Studies Association Autocracy &amp; Regime Change Specialist Group</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Foreign Correspondence in China: Authoritarian Media Control and Journalistic Responses.</strong>
+      <i>Revise and Resubmit.</i>
+    </li>
+    <li>
+      <strong>Party and Personalism in China’s Autocratic Legitimation.</strong>
+      <i>(with Alexander Dukalskis). Book Chapter Under Review.</i>
+    </li>
+  </ul>
+  
+  <h3>Working Papers</h3>
+  <ul>
+    <li>
+      <strong>Who Believes and Who Shares Fake News: A Multi-Agent System Application for Experimental Misinformation Research with LLMs.</strong>
+      <i>(with Yen-Chieh Liao and Slava Jankin).</i>
+      <a href="`r rmarkdown::metadata$research$mas`" target="_blank">
+        &ensp;[Pre-analysis Plan]
+      </a>
+    </li>
+    <li>
+      <strong>How do Propaganda Frames Shift Public Attitudes towards International Journalists? Evidence from China.</strong>
+    </li>
+  </ul>
+
+</div>
