@@ -16,17 +16,13 @@ research:
 ```{=html}
 <div class="text-align: left;">
 
-  <h3>Publications</h3>
-  <ul>
-    <li>
-      <strong>The Use of ‘So-Called’ as a Propaganda Device.</strong>
-      <i>(with Alexander Dukalskis). Forthcoming,<br>
-      The Journal of East Asian Studies.</i>
-      <a href="`r rmarkdown::metadata$research$socalled`" target="_blank">
-        &ensp;[Manuscript]
-      </a>
-    </li>
-  </ul>
+<h3>Publications</h3>
+<ul>
+  <li>
+    <a href="https://doi.org/10.1017/jea.2025.7" target="_blank"><strong>The Use of ‘So-Called’ as a Propaganda Device.</strong></a> 2025.
+    <i>The Journal of East Asian Studies.</i> (with <a href="https://alexdukalskis.wordpress.com/" target="_blank">Alexander Dukalskis</a>).
+  </li>
+</ul>
 
   <h3>Under Review</h3>
   <ul>
@@ -37,7 +33,7 @@ research:
         <li><a href="https://bsky.app/profile/psaautocracy.bsky.social/post/3lv4f5ixbpc2z" target="_blank">
             Best PhD Paper 2025
           </a>, Autocracy &amp; Regime Change Specialist Group,<br>
-          Political Studies Association</li>
+          <a href="https://www.psa.ac.uk/" target="_blank">Political Studies Association</a></li>
       </ul>
     </li>
     <li>
@@ -46,7 +42,7 @@ research:
     </li>
     <li>
       <strong>Party and Personalism in China’s Autocratic Legitimation.</strong>
-      <i>(with Alexander Dukalskis).<br>
+      <i>(with <a href="https://alexdukalskis.wordpress.com/" target="_blank">Alexander Dukalskis</a>).<br>
       Book Chapter Under Review.</i>
     </li>
   </ul>
@@ -55,7 +51,7 @@ research:
   <ul>
     <li>
       <strong>Who Believes and Who Shares Fake News: A Multi-Agent System Application for Experimental Misinformation Research with LLMs.</strong>
-      <i>(with Yen-Chieh Liao and Slava Jankin).</i>
+      <i>(with <a href="https://davidycliao.github.io/" target="_blank">Yen-Chieh Liao</a> and <a href="https://sjankin.com/" target="_blank">Slava Jankin</a>).</i>
       <a href="`r rmarkdown::metadata$research$mas`" target="_blank">
         &ensp;[Pre-analysis Plan]
       </a>
