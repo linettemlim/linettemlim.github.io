@@ -57,7 +57,7 @@ research:
       </a>
     </li>
     <li>
-      <strong>How do Propaganda Frames Shift Public Attitudes towards International Journalists? Evidence from China.</strong>
+      <strong>How do Propaganda Frames Shift Behavioural Intentions towards International Journalists? Evidence from China.</strong>
     </li>
   </ul>
 
