@@ -18,6 +18,10 @@ research:
 
 <h3>Publications</h3>
 <ul>
+    <li>
+      <strong>Foreign Correspondence in China: Authoritarian Media Control and Journalistic Responses.</strong>
+      <i>Forthcoming, The Internationational Journal of Press/Politics.</i>
+    </li>
   <li>
     <a href="https://doi.org/10.1017/jea.2025.7" target="_blank"><strong>The Use of ‘So-Called’ as a Propaganda Device.</strong></a> 2025.
     <i>The Journal of East Asian Studies.</i> (with <a href="https://alexdukalskis.wordpress.com/" target="_blank">Alexander Dukalskis</a>).
@@ -35,10 +39,6 @@ research:
           </a>, Autocracy &amp; Regime Change Specialist Group,<br>
           <a href="https://www.psa.ac.uk/" target="_blank">Political Studies Association</a></li>
       </ul>
-    </li>
-    <li>
-      <strong>Foreign Correspondence in China: Authoritarian Media Control and Journalistic Responses.</strong>
-      <i>Revise and Resubmit.</i>
     </li>
     <li>
       <strong>Party and Personalism in China’s Autocratic Legitimation.</strong>
