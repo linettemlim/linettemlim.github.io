@@ -4,9 +4,12 @@ about:
   id: about-block
   image: "img/2212_Lim_L_011.png"
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/LinetteMLim
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/linettelim.bsky.social
+    - icon: twitter-x
+      text: X
+      href: https://x.com/LinetteMLim
     - icon: github
       text: Github
       href: https://github.com/linettemlim
@@ -15,7 +18,7 @@ about:
       href: https://www.linkedin.com/in/linette-lim-a2095012/
     - icon: envelope
       text: Email
-      href: "mailto:linette.lim@ucdconnect.ie"
+      href: "mailto:linettelmy@gmail.com"
 ---
 ::: {#about-block style="text-align: center;"}
 
