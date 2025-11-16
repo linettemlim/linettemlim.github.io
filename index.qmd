@@ -18,7 +18,7 @@ about:
       href: https://www.linkedin.com/in/linette-lim-a2095012/
     - icon: envelope
       text: Email
-      href: "mailto:linettelmy@gmail.com"
+      href: "mailto:mail@linettelim.com"
 ---
 ::: {#about-block style="text-align: center;"}
 
