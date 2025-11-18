@@ -16,6 +16,9 @@ engine: knitr
   <p>
     <strong>Lecturer:</strong><br>
     POL36250 Media Politics under Authoritarianism, Autumn 2025
+    <ul>
+      <li>Designed and delivered my own taught module for 48 third- and fourth-year undergraduates</li>
+    </ul>
   </p>
 
   <p>
