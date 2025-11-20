@@ -10,9 +10,12 @@ about:
     - icon: twitter-x
       text: X
       href: https://x.com/LinetteMLim
-    - icon: github
-      text: Github
-      href: https://github.com/linettemlim
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=Cuccu_sAAAAJ&hl=en
+    - icon: newspaper
+      text: ORCID
+      href: https://orcid.org/0000-0001-6916-4263  
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/linette-lim-a2095012/

@@ -5,7 +5,10 @@ excerpt: Teaching
 execute:
   freeze: false  # never re-render during project render
 engine: knitr 
-
+resources:
+  - "media politics_syllabus.pdf"
+teaching:
+  syllabus: "media politics_syllabus.pdf"
 ---
 
 ```{=html}
@@ -15,10 +18,8 @@ engine: knitr
 
   <p>
     <strong>Lecturer:</strong><br>
-    POL36250 Media Politics under Authoritarianism, Autumn 2025
-    <ul>
-      <li>Designed and delivered my own taught module for 48 third- and fourth-year undergraduates</li>
-    </ul>
+    POL36250 <a href="`r rmarkdown::metadata$teaching$syllabus`" target="_blank">Media Politics under Authoritarianism</a>, Autumn 2025<br>
+    <i>Designed and delivered my own taught module for advanced undergraduates</i>
   </p>
 
   <p>
