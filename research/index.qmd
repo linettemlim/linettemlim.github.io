@@ -18,7 +18,8 @@ research:
 ```{=html}
 <div class="text-align: left;">
 
-<h3>Publications</h3>
+<hr style="margin: 2em 0;">
+<h3 style="margin-bottom: 1.5em;"><em>Publications</em></h3>
 <ul>
       <li>
       <strong>Friends and Enemies: External Threats and the Delegitimization of Foreign Media in China.</strong><br>
@@ -48,7 +49,8 @@ research:
   </li>
 </ul>
 
-  <h3>Under Review</h3>
+<hr style="margin: 2em 0;">
+<h3 style="margin-bottom: 1.5em;"><em>Under Review</em></h3>
   <ul>
     <li>
       <strong>Party and Personalism in China’s Autocratic Legitimation.</strong>
@@ -57,7 +59,8 @@ research:
     </li>
   </ul>
   
-  <h3>Working Papers</h3>
+<hr style="margin: 2em 0;">
+<h3 style="margin-bottom: 1.5em;"><em>Working Papers</em></h3>
   <ul>
     <li>
       <strong>Who Believes and Who Shares Fake News: A Multi-Agent System Application for Experimental Misinformation Research with LLMs.</strong>
