@@ -24,6 +24,12 @@ research:
       <li>
       <a href="https://doi.org/10.1080/13569775.2025.2586182" target="_blank"><strong>Friends and Enemies: External Threats and the Delegitimization of Foreign Media in China.</strong></a> 2025.
       <i>Contemporary Politics.</i>
+      &ensp;<a href="`r rmarkdown::metadata$research$manuscript`" target="_blank">
+       [Manuscript]
+      </a>
+      &ensp;<a href="`r rmarkdown::metadata$research$appendix`" target="_blank">
+       [Appendix]
+      </a>
       <ul>
         <li><a href="https://bsky.app/profile/psaautocracy.bsky.social/post/3lv4f5ixbpc2z" target="_blank">
             Best PhD Paper 2025
