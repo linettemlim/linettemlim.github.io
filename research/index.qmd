@@ -40,7 +40,7 @@ research:
     
     <li>
        <a href="https://doi.org/10.1177/19401612251379585" target="_blank"><strong>Foreign Correspondence in China: Authoritarian Media Control and Journalistic Responses.</strong></a> 2025.
-      <i>The Internationational Journal of Press/Politics.</i>
+      <i>The International Journal of Press/Politics.</i>
     </li>
     
     <li>
