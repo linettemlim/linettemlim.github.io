@@ -14,7 +14,7 @@ teaching:
 ```{=html}
 <div style="text-align: left;">
 
-<p>During my doctoral training – which is structured to prioritize research – I actively sought pedagogical training and classroom experience. I was one of a small handful of PhD candidates approved to design and teach my own module. This module, Media Politics under Authoritarianism (POL36250), was taught to advanced undergraduate students in Autumn 2025 at University College Dublin. The module received highly positive evaluations (4.7/ 5.0), with students noting clarity and engagement.
+<p>During my doctoral training – which is structured to prioritize research – I actively sought pedagogical training and classroom experience. I have guest lectured for <a href="https://alexdukalskis.wordpress.com/" target="_blank">Alexander Dukalskis</a>' Introduction to Asian Politics (POL30690) and <a href="https://www.nikitakhokhlov.com/" target="_blank">Nikita Khokhlov</a>'s Political Communication and Propaganda (POL36220) modules. I was also one of a small handful of PhD candidates approved to design and teach my own module. This module, Media Politics under Authoritarianism (POL36250), was taught to advanced undergraduate students in Autumn 2025 at University College Dublin. The module received highly positive evaluations (4.7/ 5.0), with students noting clarity and engagement.
 
 <hr style="margin: 2em 0;">
 <h3 style="margin-bottom: 1.5em;"><em>Course Description</em></h3>
