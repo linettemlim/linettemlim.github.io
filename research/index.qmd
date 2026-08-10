@@ -69,10 +69,6 @@ research:
        [Pre-analysis Plan]
       </a>
     </li>
-    
-    <li>
-      <strong>How do Propaganda Frames Shift Behavioural Intentions towards International Journalists? Evidence from China.</strong>
-    </li>
   </ul>
 
 </div>
