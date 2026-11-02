@@ -3,10 +3,10 @@ title: Contact
 ---
 
 <address>
-University College Dublin<br>
-School of Politics and International Relations<br>
-Newman Building F302<br>
-Belfield, Dublin 4, Ireland
+Aarhus University<br>
+Department of Political Science<br>
+Bartholins Allé 7, 1340, 237<br>
+8000 Aarhus C, Denmark
 </address>
 
 Please feel free to [email me](mailto:mail@linettelim.com) if you have any questions or would like to discuss potential projects.
